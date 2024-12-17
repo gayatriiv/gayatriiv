@@ -1,2 +1,1 @@
-![Leetcode Stats](https://leetcard.ryennnn/ryennnn)
-
+https://leetcode-stats-api.herokuapp.com/ryennnn
