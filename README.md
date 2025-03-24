@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! gayatri here - 
 
-🚀 **Backend Developer | Web Developer | Innovator**
+🚀 **Backend Developer**
 
 🎯 Passionate about building scalable backend systems, web applications, and exploring new technologies. I love solving real-world problems with code and collaborating on innovative projects.
 
