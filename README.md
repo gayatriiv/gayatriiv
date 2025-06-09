@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Joined-2021-informational?style=flat&logo=github&color=blueviolet"/>
-  <img src="https://img.shields.io/badge/Followers-31-blue?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/Repositories-19-important?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/Joined-2023-informational?style=flat&logo=github&color=blueviolet"/>
+  <img src="https://img.shields.io/badge/Followers-8-blue?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/Repositories-20-important?style=flat&logo=github"/>
   <img src="https://img.shields.io/badge/Commits-Last_Year-success?style=flat&logo=github"/>
 </p>
 
