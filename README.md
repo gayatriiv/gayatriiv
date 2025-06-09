@@ -1,9 +1,8 @@
 <!-- Inspired by Image 1 -->
 
 <p align="center">
-  <img src="https://github.com/gayatriiv/gayatriiv/blob/main/assets/header-name.svg" alt="Gayatri" height="40"/>
+  <img src="https://github.com/gayatriiv.png" alt="Gayatri Vinod" width="120"/>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Joined-2023-informational?style=flat&logo=github&color=blueviolet"/>
   <img src="https://img.shields.io/badge/Followers-8-blue?style=flat&logo=github"/>
