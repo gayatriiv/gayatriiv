@@ -33,14 +33,6 @@
 
 ---
 
-### 🌟 &nbsp;**Featured Projects**
-| Project | Description | Link |
-|---------|-------------|------|
-| **Portfolio Website** | My personal portfolio built with Next.js and React. | [View Repo](https://github.com/gayatriiv/portfolio) |
-| **AI Chatbot** | An intelligent chatbot using Python and NLP. | [View Repo](https://github.com/gayatriiv/ai-chatbot) |
-| **Task Manager** | Productivity app for managing daily tasks. | [View Repo](https://github.com/gayatriiv/task-manager) |
-
----
 
 ### 📊 &nbsp;**GitHub Stats**
 
