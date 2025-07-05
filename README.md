@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/gayatriiv.png" alt="Gayatri Vinod" width="120"/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00A6ED&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Gayatri+Vinod!;Web+Developer+%7C+AI+Enthusiast+%F0%9F%A4%96;Let%27s+build+something+amazing+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 ---
