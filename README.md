@@ -5,16 +5,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Joined-2024-informational?style=flat&logo=github&color=blueviolet"/>
-  <img src="https://img.shields.io/badge/Followers-8-blue?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/Repositories-22-important?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/Commits-235-success?style=flat&logo=github"/>
-  <img src="https://komarev.com/ghpvc/?username=gayatriiv&color=blueviolet" alt="Profile views"/>
-</p>
-
----
-
 <div align="center">
 
 ### 🚀 &nbsp;**Tech Stack**
