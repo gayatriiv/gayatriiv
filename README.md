@@ -41,21 +41,15 @@
 
 - 🌐 **Web development**
 - 🤖 **AI & Machine Learning**
-- 📱 **Mobile app development**
+
 
 ---
 
 ### ✨ &nbsp;**What I Love Doing**
 
-- 🚀 Turning ideas into real websites & apps
+- 🚀 Turning ideas into cool websites
 - 🎨 Designing user-friendly interfaces
 - 🧩 Learning with hands-on projects & challenges
-
----
-
-### 😄 &nbsp;**Fun Fact**
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
 
