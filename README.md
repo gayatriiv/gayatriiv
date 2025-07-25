@@ -8,25 +8,24 @@
 <div align="center">
 
 ### 🚀 &nbsp;**Tech Stack**
-#### Frameworks
+#### Frameworks  
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark" height="40"/>
 
-#### Tools
+#### Tools  
 <img src="https://skillicons.dev/icons?i=git,docker,vscode,figma,postman&theme=dark" height="40"/>
 
-#### Languages
+#### Languages  
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" height="40"/>
 
-#### Databases
+#### Databases  
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" height="40"/>
 
 ---
 
-
 ### 📊 &nbsp;**GitHub Stats**
 
 <img src="https://github-readme-stats.vercel.app/api?username=gayatriiv&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" height="175"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gayatriiv&theme=dark&hide_border=true&ring=7C3AED&fire=7C3AED" height="175"/>
+<img src="https://github-readme-streak-stats.demolab.com?user=gayatriiv&theme=dark&hide_border=true&ring=7C3AED&fire=7C3AED" height="175"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatriiv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="175"/>
 
 ---
@@ -42,20 +41,19 @@
 - 🌐 **Web development**
 - 🤖 **AI & Machine Learning**
 
-
 ---
 
 ### ✨ &nbsp;**What I Love Doing**
 
-- 🚀 Turning ideas into cool websites
-- 🎨 Designing user-friendly interfaces
+- 🚀 Turning ideas into cool websites  
+- 🎨 Designing user-friendly interfaces  
 - 🧩 Learning with hands-on projects & challenges
 
 ---
 
 ### 📫 &nbsp;**Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gayatri-vinod)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gayatri-vinod)  
 [![Gmail](https://img.shields.io/badge/Email-gayatrrriii@gmail.com-red?style=flat-square&logo=gmail)](mailto:gayatrrriii@gmail.com)
 
 ---
