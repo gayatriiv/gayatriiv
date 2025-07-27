@@ -25,7 +25,7 @@
 ### 📊 &nbsp;**GitHub Stats**
 
 <img src="https://github-readme-stats.vercel.app/api?username=gayatriiv&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" height="175"/>
-<img src="https://github-readme-streak-stats.demolab.com?user=gayatriiv&theme=dark&hide_border=true&ring=7C3AED&fire=7C3AED" height="175"/>
+<img src="https://streak-stats.demolab.com?user=gayatriiv&theme=dark&hide_border=true&ring=7C3AED&fire=7C3AED" height="175"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatriiv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="175"/>
 
 ---
