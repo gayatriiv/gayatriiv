@@ -1,7 +1,6 @@
 ### hey there!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatriiv&label=Profile%20views&color=0e75b6&style=flat" alt="gayatriiv" /> </p>
-
+<p align="left"\> \<img src="[https://komarev.com/ghpvc/?username=gayatriiv\&label=Profile\&color=0e75b6\&style=flat](https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dgayatriiv%26label%3DProfile%26color%3D0e75b6%26style%3Dflat)" alt="gayatriiv" /\> \</p\>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatriiv" alt="gayatriiv" /></a>
 </p>
@@ -59,5 +58,5 @@
 
 <p align="center">
 <a href="https://gayatris-portfolio.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="gayatriiv" /></a>
-<a href="https://www.linkedin.com/in/your-linkedin-profile/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="your-linkedin-profile" /></a>
+<a href="https://www.linkedin.com/in/gayatri-vinod" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="your-linkedin-profile" /></a>
 </p>
