@@ -1,9 +1,5 @@
 ### Hey there! 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gayatriiv&label=Profile%20Views&color=0e75b6&style=flat" alt="gayatriiv" />
-</p>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=gayatriiv&theme=onedark" alt="gayatriiv" />
@@ -21,10 +17,11 @@
 
 ### 🚀 Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Python, PHP
-- **Frameworks:** React, Node.js, Express
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, Docker, Postman
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,py,php,mongodb,mysql,git,docker,postman&perline=6" />
+  </a>
+</p>
 
 ---
 
