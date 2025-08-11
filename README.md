@@ -1,4 +1,4 @@
-### Hey there! 👋
+### Hey there! 
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
