@@ -48,7 +48,7 @@ i am gayatri vinod, a developer passionate about building solutions across web, 
 | inquira      | collaborative networking platform                        | python, flask, sqlite                   | sem 3        |
 | substrack    | subscription management tool                             | html/css, charts.js, mysql, php         | sem 4        |
 | city-roots   | urban gardening & community ecom store                   | nextjs, supabase, tailwindcss           | sem 5        |
-| flickchat    | chat application                                        | flutter, machine learning               | —            |
+| flickchat    | chat application                                        | flutter, machine learning               | sem 5          |
 
 ### personal
 
@@ -66,5 +66,3 @@ i am gayatri vinod, a developer passionate about building solutions across web, 
 
 - linkedin: [https://www.linkedin.com/in/gayatri-vinod](https://www.linkedin.com/in/gayatri-vinod)
 - email: gayatrrriii@gmail.com
-
-![image2](image2)
