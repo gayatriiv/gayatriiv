@@ -1,63 +1,70 @@
-### Hey there! 
+## about me
 
-### About Me
-
-- ✌️ Enjoy programming and sharing knowledge.
-- ❤️ Love to write code and learn new features.
-- 📧 Reach me anytime: **gayatrrriii@gmail.com**
-- 💬 Ask me about anything [here](https://github.com/gayatriiv/gayatriiv/issues)
+i am gayatri vinod, a developer passionate about building solutions across web, mobile, and social platforms. my interests span backend, frontend, and api development, with a focus on practical innovation. i enjoy working on collaborative, real-world projects and leveraging technology for impact.
 
 ---
 
-### 🚀 Tech Stack
+## tech stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,py,php,mongodb,mysql,git,docker,postman&perline=6" />
-  </a>
-</p>
-
----
-
-### 🌱 Learning & Exploring
-
-- 🌐 Web Development
-- 🤖 AI & Machine Learning
+**languages:** python, c/c++, javascript  
+**frontend:** html/css, react, next.js, tailwind css, shadcn  
+**backend:** node.js, express.js  
+**api development:** rest, jwt, oauth  
+**database:** mysql, postgresql, supabase, firebase, mongodb  
+**tools:** vscode, git, docker, postman
 
 ---
 
-### ✨ What I Love Doing
+## most used languages
 
-- 🚀 Turning ideas into cool websites.
-- 🎨 Designing user-friendly interfaces.
-- 🧩 Learning with hands-on projects & challenges.
+- jupyter notebook (76%)
+- typescript (18%)
+- php (4%)
+- python (1%)
+- java (0.5%)
+- css (0.3%)
+
+<details>
+  <summary>visual breakdown</summary>
+
+  ```
+  jupyter notebook  █████████████████████████████████████████████████████████████████████████████████████████████████
+  typescript        ██████████████████████████
+  php               ████
+  python            █
+  java              ░
+  css               ░
+  ```
+</details>
 
 ---
 
-### 📊 GitHub Stats
+## projects
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayatriiv&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="gayatriiv" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gayatriiv&show_icons=true&locale=en&theme=github_dark" alt="gayatriiv" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayatriiv&theme=github_dark_dimmed&hide_border=true" alt="gayatriiv" />
-</p>
+### university
+
+| project      | description                                              | tech stack                              | semester     |
+| ------------ | -------------------------------------------------------- | ---------------------------------------- | ------------ |
+| inquira      | collaborative networking platform                        | python, flask, sqlite                   | sem 3        |
+| substrack    | subscription management tool                             | html/css, charts.js, mysql, php         | sem 4        |
+| city-roots   | urban gardening & community ecom store                   | nextjs, supabase, tailwindcss           | sem 5        |
+| flickchat    | chat application                                        | flutter, machine learning               | —            |
+
+### personal
+
+| project         | description                                                   | tech stack                        |
+| --------------- | ------------------------------------------------------------- | --------------------------------- |
+| weShareIt       | food sharing platform (social innovation-hackathon)           | mern                              |
+| college tracker | personal tool for tracking academic performance and deadlines | nextjs, shadcn, supabase          |
+| oms system      | order management system for startups                          | next.js, mongodb, rest api        |
+| ecom website    | full-stack e-commerce application (restaurant)                | nextjs, express.js, mongodb       |
+| globehive       | social platform for travel experiences                        | nextjs, shadcn, supabase, gsap, spline |
 
 ---
 
-### 📫 Connect with Me
+## connect
 
-<p align="center">
-  <a href="https://gayatris-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-22272E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gayatri-vinod" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
-  <a href="https://github.com/gayatriiv" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-22272E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-  </a>
-</p>
+- linkedin: [https://www.linkedin.com/in/gayatri-vinod](https://www.linkedin.com/in/gayatri-vinod)
+- email: gayatrrriii@gmail.com
+
+![image2](image2)
