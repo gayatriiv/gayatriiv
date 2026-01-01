@@ -1,6 +1,6 @@
 ## about me
 
-i am gayatri vinod, a developer passionate about building solutions across web, mobile, and social platforms. my interests span backend, frontend, and api development, with a focus on practical innovation. i enjoy working on collaborative, real-world projects and leveraging technology for impact.
+i am gayatri vinod, a developer passionate about building solutions across web and social platforms. my interests span backend, frontend, and api development, with a focus on practical innovation. i enjoy working on collaborative, real-world projects and leveraging technology for impact.
 
 ---
 
