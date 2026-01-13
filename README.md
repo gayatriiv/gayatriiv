@@ -36,10 +36,9 @@ i enjoy building clean interfaces, scalable backends, and learning new technolog
 ### profiles
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">linkedin</a> •
-  <a href="https://leetcode.com/your-username" target="_blank">leetcode</a> •
-  <a href="https://github.com/your-username" target="_blank">github</a> •
-  <a href="mailto:yourmail@gmail.com">email</a>
+  <a href="https://linkedin.com/in/gayatri-vinod" target="_blank">linkedin</a> •
+  <a href="https://github.com/gayatriiv" target="_blank">github</a> •
+  <a href="mailto:gayatrrriii@gmail.com">email</a>
 </p>
 
 ---
@@ -47,8 +46,8 @@ i enjoy building clean interfaces, scalable backends, and learning new technolog
 ### statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true&background=0d1117" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gayatriiv&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayatriiv&theme=dark&hide_border=true&background=0d1117" height="150"/>
 </p>
 
 ---
@@ -56,7 +55,7 @@ i enjoy building clean interfaces, scalable backends, and learning new technolog
 ### contribution graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatriiv&theme=github-dark&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
