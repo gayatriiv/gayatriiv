@@ -1,68 +1,66 @@
-## about me
-
-i am gayatri vinod, a developer passionate about building solutions across web and social platforms. my interests span backend, frontend, and api development, with a focus on practical innovation. i enjoy working on collaborative, real-world projects and leveraging technology for impact.
-
----
-
-## tech stack
-
-**languages:** python, c/c++, javascript  
-**frontend:** html/css, react, next.js, tailwind css, shadcn  
-**backend:** node.js, express.js  
-**api development:** rest, jwt, oauth  
-**database:** mysql, postgresql, supabase, firebase, mongodb  
-**tools:** vscode, git, docker, postman
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1c1c1c&height=160&section=header&text=welcome%20to%20gayatri's%20github&fontColor=ffffff&fontSize=28&fontAlignY=35&desc=</>&descAlignY=55"/>
+</p>
 
 ---
 
-## most used languages
+### about me
 
-- jupyter notebook (76%)
-- typescript (18%)
-- php (4%)
-- python (1%)
-- java (0.5%)
-- css (0.3%)
+hi there! i'm **gayatri**, a computer science student with a focus on ai, data science, and full-stack development.  
+i enjoy building clean interfaces, scalable backends, and learning new technologies by creating real projects.
 
-<details>
-  <summary>visual breakdown</summary>
-
-  ```
-  jupyter notebook  █████████████████████████████████████████████████████████████████████████████████████████████████
-  typescript        ██████████████████████████
-  php               ████
-  python            █
-  java              ░
-  css               ░
-  ```
-</details>
+- 🎓 computer science (ai & ds)
+- 💻 interested in web dev, ml, backend systems
+- 🌱 currently learning: advanced dsa, next.js, ml
+- 🧠 i believe in consistency > comparison
 
 ---
 
-## projects
+### education & achievements
 
-### university
-
-| project      | description                                              | tech stack                              | semester     |
-| ------------ | -------------------------------------------------------- | ---------------------------------------- | ------------ |
-| inquira      | collaborative networking platform                        | python, flask, sqlite                   | sem 3        |
-| substrack    | subscription management tool                             | html/css, charts.js, mysql, php         | sem 4        |
-| city-roots   | urban gardening & community ecom store                   | reactjs, supabase, tailwindcss           | sem 5        |
-| flickchat    | chat application                                        | flutter, machine learning               | sem 5          |
-
-### personal
-
-| project         | description                                                   | tech stack                        |
-| --------------- | ------------------------------------------------------------- | --------------------------------- |
-| weShareIt       | food sharing platform (social innovation-hackathon)           | mern                              |
-| gridspace       | personalised student workspace                                | nextjs, supabase                  |
-| oms system      | order management system for startups (work)                   | next.js, mongodb, rest api        |
-| ecom website    | full-stack e-commerce application (work)                      | nextjs, express.js, mongodb       |
-| globehive (ongoing)   | social platform for travel experiences                        | nextjs, shadcn, supabase, gsap, spline |
+- bachelor’s in computer science (ai & data science)
+- active on leetcode & github
+- building academic + personal projects
+- aiming for strong internships & research exposure
 
 ---
 
-## connect
+### technologies
 
-- linkedin: [https://www.linkedin.com/in/gayatri-vinod](https://www.linkedin.com/in/gayatri-vinod)
-- email: gayatrrriii@gmail.com
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,linux&theme=dark" />
+</p>
+
+---
+
+### profiles
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">linkedin</a> •
+  <a href="https://leetcode.com/your-username" target="_blank">leetcode</a> •
+  <a href="https://github.com/your-username" target="_blank">github</a> •
+  <a href="mailto:yourmail@gmail.com">email</a>
+</p>
+
+---
+
+### statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true&background=0d1117" height="150"/>
+</p>
+
+---
+
+### contribution graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+<p align="center">
+  <sub>crafted with focus, patience, and late nights.</sub>
+</p>
