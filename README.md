@@ -22,7 +22,7 @@ i’m **gayatri**, a computer science student focused on building clean systems 
 i enjoy learning new technologies, solving problems with clarity, and writing code that is simple, readable, and scalable.
 
 - computer science (ai & data science)  
-- interested in backend, web, and machine learning  
+- interested in data engineering, and web.  
 - focused on consistency and depth over speed  
 
 ---
