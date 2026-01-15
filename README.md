@@ -1,1 +1,60 @@
 
+<p align="center">
+  <img src="https://github.com/gayatriiv.png" width="140" style="border-radius:50%;" />
+</p>
+
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/gayatri-vinod">linkedin</a> ·
+  <a href="https://github.com/gayatriiv">github</a> ·
+  <a href="mailto:gayatrrriii@gmail.com">email</a>
+</p>
+
+---
+
+## about me
+
+hello there.  
+i’m **gayatri**, a computer science student focused on building clean systems and meaningful projects.
+
+i enjoy learning new technologies, solving problems with clarity, and writing code that is simple, readable, and scalable.
+
+- computer science (ai & data science)  
+- interested in backend, web, and machine learning  
+- focused on consistency and depth over speed  
+
+---
+
+## education & focus
+
+- bachelor’s in computer science  
+- strong interest in data structures & algorithms  
+- building projects alongside academic learning  
+- preparing for internships and research opportunities  
+
+---
+
+## technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,tailwind,react,nextjs,nodejs,express,php,mongodb,mysql,postgres,firebase,supabase,docker,git,github,figma,postman,vscode,vercel&theme=dark" />
+</p>
+
+
+---
+
+---
+
+## contribution graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatriiv&theme=github-dark&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+<p align="center">
+  <sub> focused.</sub>
+</p>
