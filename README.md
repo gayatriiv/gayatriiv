@@ -1,11 +1,3 @@
-
-<p align="center">
-  <img src="https://github.com/gayatriiv.png" width="140" style="border-radius:50%;" />
-</p>
-
-
----
-
 <p align="center">
   <a href="https://linkedin.com/in/gayatri-vinod">linkedin</a> ·
   <a href="https://github.com/gayatriiv">github</a> ·
