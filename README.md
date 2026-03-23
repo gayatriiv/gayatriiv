@@ -6,7 +6,7 @@
 
 ---
 
-## about mee
+## about me
 
 hello there.  
 i’m **gayatri**, a computer science student focused on building clean systems and meaningful projects.
