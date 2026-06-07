@@ -1,2 +1,2 @@
-quick note - changed my github username, redirect to @wyvernis. 
- 
+quick note — changed my gitHub username, redirect to [@wyvernis](https://github.com/wyvernis). 
+thanks >
